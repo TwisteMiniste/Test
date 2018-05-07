@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TEST</string>
+    <string name="app_name">AsyncTask</string>
+    <string name="start">Start</string>
 </resources>
